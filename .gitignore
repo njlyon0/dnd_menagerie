@@ -4,3 +4,5 @@ _drafts/
 grimoire.sublime*
 .sass-cache/
 .jekyll-metadata
+.Rproj.user
+*.Rproj
