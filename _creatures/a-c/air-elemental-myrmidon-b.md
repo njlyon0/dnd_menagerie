@@ -22,7 +22,9 @@ condition_immunities: "paralyzed, petrified, poisoned, prone"
 damage_resistances: "lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Magic Weapons.*** The myrmidon's weapon attacks are magical. Actions
+***Magic Weapons.*** The myrmidon's weapon attacks are magical.
+
+### Actions
 
 ***Multiattack.*** The myrmidon makes three flail attacks.
 
