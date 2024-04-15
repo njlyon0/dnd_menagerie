@@ -36,7 +36,9 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 
-***Magic Weapons.*** The abishai's weapon attacks are magical. Actions
+***Magic Weapons.*** The abishai's weapon attacks are magical.
+
+### Actions
 
 ***Multiattack.*** The abishai makes two attacks, one with its claws and one with its longsword, or it casts one spell from its Innate Spellcasting trait and makes one claw attack.
 
