@@ -10,7 +10,7 @@ dex: 11 (0)
 str: 15 (+2)
 size: Medium undead
 alignment: neutral evil
-challenge: "l"
+challenge: "1 (200 XP)"
 languages: "Common"
 senses: "darkvision 60 ft."
 skills: "Athletics +4, Perception +3"
